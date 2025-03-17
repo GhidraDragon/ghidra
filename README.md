@@ -4,7 +4,20 @@ If you have too much time, you could change the part that says "NSA" or "Nationa
 
 These instructional screenshots is a 6 year old YouTube video, yet the YouTube accounts video seems to be lacking in it
 
-![image](https://github.com/user-attachments/assets/c87ffa88-ce9a-43b2-a807-734ac74cc62c)
+![image](https://github.com/user-attachments/assets/c87ffa88-ce9a-43b2-a807-734ac74cc62c) YouTube.com/@screen-name
+
+Step 1 - understand, change if applicable (?? I don't know this part well)
+
+
+![Screenshot_20250317_142033_YouTube (1)](https://github.com/user-attachments/assets/7559ebc7-695d-4fbb-b8c8-1e5b677251e9)
+
+Step 2 - patch assembly in only ways that work, else fail
+
+![Screenshot_20250317_142056_YouTube (1)](https://github.com/user-attachments/assets/110c63a8-b01e-4f08-b514-e69e5f0ed89e)
+
+Step 3 - export (this crack means password crack; it's a demo of what Ghidra could be used for operationally)
+
+![Screenshot_20250317_142105_YouTube (1)](https://github.com/user-attachments/assets/2c9b64be-31b2-45b5-bc99-f439c3ccd2c5)
 
 
 <img src="Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="400">
