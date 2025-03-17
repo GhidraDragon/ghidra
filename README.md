@@ -6,6 +6,11 @@ Technically they could password reset through gmail administrator, and I guess i
 
 <img width="852" alt="image" src="https://github.com/user-attachments/assets/00155662-6c44-42ac-b285-13bbaf9ea10e" />
 
+You tell me why Apple over Yandex, if you're looking for something... Perhaps since Apple pulled out, Yandex in Russia
+
+
+------
+
 So this fork I believe already fucked up the "update me" feature on Github, but if they don't change the README.md then you could still update from https://github.com/NationalSecurityAgency/ghidra
 
 ![image](https://github.com/user-attachments/assets/9f794231-a464-4787-956b-78e232340d1d)
