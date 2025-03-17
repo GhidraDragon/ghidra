@@ -1,3 +1,7 @@
+So this fork I believe already fucked up the "update me" feature on Github, but if they don't change the README.md then you could still update from https://github.com/NationalSecurityAgency/ghidra
+
+If you have too much time, you could change the part that says "NSA" or "National Secuirty Agency" to "SVR of Russia" then run the Java and now you've got a Russian apache license!
+
 <img src="Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="400">
 
 # Ghidra Software Reverse Engineering Framework
