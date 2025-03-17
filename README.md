@@ -2,6 +2,11 @@ So this fork I believe already fucked up the "update me" feature on Github, but 
 
 If you have too much time, you could change the part that says "NSA" or "National Secuirty Agency" to "SVR of Russia" then run the Java and now you've got a Russian apache license! Common svr.gov.ru is in Russian except for the "send info" part, on Tor.
 
+These instructional screenshots is a 6 year old YouTube video, yet the YouTube accounts video seems to be lacking in it
+
+![image](https://github.com/user-attachments/assets/c87ffa88-ce9a-43b2-a807-734ac74cc62c)
+
+
 <img src="Ghidra/Features/Base/src/main/resources/images/GHIDRA_3.png" width="400">
 
 # Ghidra Software Reverse Engineering Framework
