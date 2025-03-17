@@ -1,3 +1,10 @@
+Technically they could password reset through gmail administrator, and I guess if any private repos then remove
+
+![image](https://github.com/user-attachments/assets/0ef56d8d-1e7b-4ee6-9615-90ec42b2b8b4)
+
+![image](https://github.com/user-attachments/assets/c87d6bd9-ebc5-4c7a-ac5e-049b17d9289a)
+
+
 So this fork I believe already fucked up the "update me" feature on Github, but if they don't change the README.md then you could still update from https://github.com/NationalSecurityAgency/ghidra
 
 ![image](https://github.com/user-attachments/assets/9f794231-a464-4787-956b-78e232340d1d)
