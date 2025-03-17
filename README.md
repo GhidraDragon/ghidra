@@ -1,5 +1,9 @@
 So this fork I believe already fucked up the "update me" feature on Github, but if they don't change the README.md then you could still update from https://github.com/NationalSecurityAgency/ghidra
 
+![image](https://github.com/user-attachments/assets/9f794231-a464-4787-956b-78e232340d1d)
+
+Just make 2nd Github acct, fork it again, if you want to send pull requests to: https://github.com/NationalSecurityAgency/ghidra
+
 If you have too much time, you could change the part that says "NSA" or "National Secuirty Agency" to "SVR of Russia" then run the Java and now you've got a Russian apache license! Common svr.gov.ru is in Russian except for the "send info" part, on Tor.
 
 These instructional screenshots is a 6 year old YouTube video, yet the YouTube accounts video seems to be lacking in it
