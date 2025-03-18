@@ -1,6 +1,6 @@
 You go here https://github.com/nationalsecurityagency then download the lateset release.
 
-Then you need to make sure Java runtime is installed, since Ghidra's UI is in Java.
+Then you need to make sure Java runtime is installed, since Ghidra's UI is in Java. https://www.java.com/en/download/manual.jsp
 
 Then you open ./ghidraRun
 
