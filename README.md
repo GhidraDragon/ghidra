@@ -1,3 +1,13 @@
+You go here https://github.com/nationalsecurityagency then download the lateset release.
+
+Then you need to make sure Java runtime is installed, since Ghidra's UI is in Java.
+
+Then you open ./ghidraRun
+
+Then depending on your operating system there may be like 500 security executables to allow, each one on MacOS System Settings - Security - hit "allow" - then they still ask for TouchID to like??
+
+----
+
 Technically they could password reset through gmail administrator, and I guess if any private repos then remove
 
 ![image](https://github.com/user-attachments/assets/0ef56d8d-1e7b-4ee6-9615-90ec42b2b8b4)
