@@ -21,16 +21,9 @@ You tell me why Apple over Yandex, if you're looking for something... Perhaps si
 
 ------
 
-So this fork I believe already fucked up the "update me" feature on Github, but if they don't change the README.md then you could still update from https://github.com/NationalSecurityAgency/ghidra
+So this fork I believe probably already fucked up the "update me" feature on Github, but I'm not sure if they don't change the README.md then could you still update the rest from; .gitignore or click on README.md in Github Desktop https://github.com/NationalSecurityAgency/ghidra
 
 ![image](https://github.com/user-attachments/assets/9f794231-a464-4787-956b-78e232340d1d)
-
-I changed README.md 5 times so now this repo is upstream of the one that's gets worked on and improved regularly, while this one....
-
-![image](https://github.com/user-attachments/assets/cedfb08b-7271-4d64-beb6-f34d9f27bf32)
-
-
-Just make 2nd Github acct, fork it again, if you want to send pull requests to: https://github.com/NationalSecurityAgency/ghidra
 
 If you have too much time, you could change the part that says "NSA" or "National Secuirty Agency" to "SVR of Russia" then run the Java and now you've got a Russian apache license! Common svr.gov.ru is in Russian except for the "send info" part, on Tor.
 
